@@ -20,7 +20,7 @@ IntensityEffect=0
 
 [Colors:Button]
 BackgroundAlternate=255,85,127
-BackgroundNormal=17,17,17
+BackgroundNormal=18,18,18
 DecorationFocus=77,77,77
 DecorationHover=40,40,40
 ForegroundActive=61,174,233
@@ -90,7 +90,7 @@ ForegroundVisited=175,181,186
 
 [Colors:Window]
 BackgroundAlternate=189,195,199
-BackgroundNormal=28,28,27
+BackgroundNormal=25,25,25
 DecorationFocus=77,77,77
 DecorationHover=40,40,40
 ForegroundActive=231,147,233
@@ -108,7 +108,7 @@ Name=Windows Classic
 shadeSortColumn=true
 
 [KDE]
-contrast=10
+contrast=0
 
 [WM]
 activeBackground=0,0,0
