@@ -20,7 +20,7 @@ IntensityEffect=0
 
 [Colors:Button]
 BackgroundAlternate=255,85,127
-BackgroundNormal=8,8,8
+BackgroundNormal=17,17,17
 DecorationFocus=77,77,77
 DecorationHover=40,40,40
 ForegroundActive=61,174,233
@@ -48,7 +48,7 @@ ForegroundVisited=61,174,230
 
 [Colors:Selection]
 BackgroundAlternate=129,243,155
-BackgroundNormal=1,32,184
+BackgroundNormal=13,112,218
 DecorationFocus=77,77,77
 DecorationHover=40,40,40
 ForegroundActive=252,252,252
@@ -81,12 +81,12 @@ DecorationFocus=77,77,77
 DecorationHover=40,40,40
 ForegroundActive=61,174,233
 ForegroundInactive=127,140,141
-ForegroundLink=41,128,185
+ForegroundLink=6,43,130
 ForegroundNegative=248,85,85
 ForegroundNeutral=246,116,0
 ForegroundNormal=214,214,214
 ForegroundPositive=39,174,96
-ForegroundVisited=127,140,141
+ForegroundVisited=175,181,186
 
 [Colors:Window]
 BackgroundAlternate=189,195,199
@@ -108,7 +108,7 @@ Name=Windows Classic
 shadeSortColumn=true
 
 [KDE]
-contrast=5
+contrast=10
 
 [WM]
 activeBackground=0,0,0
